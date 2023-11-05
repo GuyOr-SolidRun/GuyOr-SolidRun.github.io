@@ -1,4 +1,5 @@
 Restart number 0
+MAC: d0:63:b4:05:27:d2, Wed, 01 Nov 2023 12:43:33 GMT
 MAC: d0:63:b4:05:27:f0, Wed, 01 Nov 2023 12:43:36 GMT
 MAC: d0:63:b4:05:27:ea, Wed, 01 Nov 2023 12:43:38 GMT
 Restart number 1
@@ -6,6 +7,7 @@ MAC: d0:63:b4:05:27:d2, Wed, 01 Nov 2023 13:15:37 GMT
 MAC: d0:63:b4:05:27:f0, Wed, 01 Nov 2023 13:15:37 GMT
 MAC: d0:63:b4:05:27:ea, Wed, 01 Nov 2023 13:15:37 GMT
 Restart number 2
+MAC: d0:63:b4:05:27:ea, Wed, 01 Nov 2023 13:47:38 GMT
 MAC: d0:63:b4:05:27:d2, Wed, 01 Nov 2023 13:47:40 GMT
 MAC: d0:63:b4:05:27:f0, Wed, 01 Nov 2023 13:47:43 GMT
 Restart number 3
@@ -18,7 +20,6 @@ MAC: d0:63:b4:05:27:d2, Wed, 01 Nov 2023 14:51:42 GMT
 MAC: d0:63:b4:05:27:f0, Wed, 01 Nov 2023 14:51:44 GMT
 Restart number 5
 MAC: d0:63:b4:05:27:ea, Wed, 01 Nov 2023 15:23:43 GMT
-MAC: d0:63:b4:05:27:d2, Wed, 01 Nov 2023 15:23:43 GMT
 MAC: d0:63:b4:05:27:f0, Wed, 01 Nov 2023 15:23:49 GMT
 Restart number 6
 MAC: d0:63:b4:05:27:d2, Wed, 01 Nov 2023 15:55:45 GMT
