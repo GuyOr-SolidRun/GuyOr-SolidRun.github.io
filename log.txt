@@ -124,3 +124,6 @@ MAC: d0:63:b4:05:27:f0, Wed, 08 Nov 2023 11:05:22 GMT
 Restart number 42 
 MAC: d0:63:b4:05:46:65, Wed, 08 Nov 2023 11:36:09 GMT
 MAC: d0:63:b4:05:27:f0, Wed, 08 Nov 2023 11:36:11 GMT
+Restart number 43 
+MAC: d0:63:b4:05:27:f0, Wed, 08 Nov 2023 12:08:14 GMT
+MAC: d0:63:b4:05:46:65, Wed, 08 Nov 2023 12:08:15 GMT
