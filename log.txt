@@ -230,3 +230,8 @@ MAC: d0:63:b4:05:46:ad, Thu, 09 Nov 2023 00:26:01 GMT
 MAC: d0:63:b4:05:2d:79, Thu, 09 Nov 2023 00:26:02 GMT
 MAC: d0:63:b4:05:46:cb, Thu, 09 Nov 2023 00:26:02 GMT
 MAC: d0:63:b4:05:46:b3, Thu, 09 Nov 2023 00:26:04 GMT
+Restart number 67 
+MAC: d0:63:b4:05:46:cb, Thu, 09 Nov 2023 00:58:06 GMT
+MAC: d0:63:b4:05:2d:79, Thu, 09 Nov 2023 00:58:08 GMT
+MAC: d0:63:b4:05:46:ad, Thu, 09 Nov 2023 00:58:09 GMT
+MAC: d0:63:b4:05:46:b3, Thu, 09 Nov 2023 00:58:12 GMT
