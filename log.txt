@@ -361,3 +361,7 @@ Restart number 95
 MAC: d0:63:b4:05:46:ad, Thu, 09 Nov 2023 15:56:24 GMT
 MAC: d0:63:b4:05:46:b3, Thu, 09 Nov 2023 15:56:26 GMT
 MAC: d0:63:b4:05:46:cb, Thu, 09 Nov 2023 15:56:26 GMT
+Restart number 96 
+MAC: d0:63:b4:05:46:ad, Thu, 09 Nov 2023 16:28:31 GMT
+MAC: d0:63:b4:05:46:cb, Thu, 09 Nov 2023 16:28:31 GMT
+MAC: d0:63:b4:05:46:b3, Thu, 09 Nov 2023 16:28:34 GMT
