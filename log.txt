@@ -309,3 +309,7 @@ Restart number 82
 MAC: d0:63:b4:05:46:cb, Thu, 09 Nov 2023 08:59:21 GMT
 MAC: d0:63:b4:05:46:ad, Thu, 09 Nov 2023 08:59:22 GMT
 MAC: d0:63:b4:05:46:b3, Thu, 09 Nov 2023 08:59:24 GMT
+Restart number 83 
+MAC: d0:63:b4:05:46:b3, Thu, 09 Nov 2023 09:31:27 GMT
+MAC: d0:63:b4:05:46:cb, Thu, 09 Nov 2023 09:31:28 GMT
+MAC: d0:63:b4:05:46:ad, Thu, 09 Nov 2023 09:31:28 GMT
