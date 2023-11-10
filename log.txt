@@ -545,3 +545,7 @@ Restart number 141
 MAC: d0:63:b4:05:46:ad, Fri, 10 Nov 2023 16:31:19 GMT
 MAC: d0:63:b4:05:46:cb, Fri, 10 Nov 2023 16:31:23 GMT
 MAC: d0:63:b4:05:46:b3, Fri, 10 Nov 2023 16:31:23 GMT
+Restart number 142 
+MAC: d0:63:b4:05:46:cb, Fri, 10 Nov 2023 17:03:23 GMT
+MAC: d0:63:b4:05:46:ad, Fri, 10 Nov 2023 17:03:24 GMT
+MAC: d0:63:b4:05:46:b3, Fri, 10 Nov 2023 17:03:28 GMT
