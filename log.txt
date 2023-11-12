@@ -1,1 +1,2 @@
 Restart number 1 
+MAC: d0:63:b4:05:27:ea, Sun, 12 Nov 2023 14:07:08 GMT
