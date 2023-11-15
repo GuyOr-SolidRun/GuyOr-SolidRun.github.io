@@ -1,2 +1,4 @@
 Restart number 1 
 MAC: d0:63:b4:05:09:85, Wed, 15 Nov 2023 12:41:07 GMT
+Restart number 2 
+MAC: d0:63:b4:05:09:85, Wed, 15 Nov 2023 13:13:11 GMT
