@@ -44,3 +44,5 @@ Restart number 22
 MAC: d0:63:b4:05:09:85, Wed, 15 Nov 2023 23:54:28 GMT
 Restart number 23 
 MAC: d0:63:b4:05:09:85, Thu, 16 Nov 2023 00:26:30 GMT
+Restart number 24 
+MAC: d0:63:b4:05:09:85, Thu, 16 Nov 2023 00:58:35 GMT
