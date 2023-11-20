@@ -48,3 +48,5 @@ Restart number 24
 MAC: d0:63:b4:05:27:ea, Mon, 20 Nov 2023 03:22:13 GMT
 Restart number 25 
 MAC: d0:63:b4:05:27:ea, Mon, 20 Nov 2023 03:54:13 GMT
+Restart number 26 
+MAC: d0:63:b4:05:27:ea, Mon, 20 Nov 2023 04:25:57 GMT
