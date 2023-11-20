@@ -80,3 +80,5 @@ Restart number 40
 MAC: d0:63:b4:05:27:ea, Mon, 20 Nov 2023 11:54:27 GMT
 Restart number 41 
 MAC: d0:63:b4:05:27:ea, Mon, 20 Nov 2023 12:26:26 GMT
+Restart number 42 
+MAC: d0:63:b4:05:27:ea, Mon, 20 Nov 2023 12:58:11 GMT
